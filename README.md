@@ -29,9 +29,6 @@
   <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" />
   <img width="12" />
-  <!-- JSX (React Alternative) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="30" alt="JSX logo (React)" />
-  <img width="12" />
   <!-- Next.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js logo" />
   <img width="12" />
