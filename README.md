@@ -63,7 +63,7 @@
   <img src="https://threejs.org/files/favicon.ico" height="30" alt="Three.js logo" />
   <img width="12" />
   <!-- Auth.js -->
-  <img src="https://i.imgur.com/l0q4O03.png" />
+  <img src="https://i.imgur.com/l0q4O03.png" height="30" />
   <img width="12" />
   <!-- EmailJS -->
   <img src="https://i.imgur.com/Mg72byo.jpeg" />
