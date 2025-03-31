@@ -54,7 +54,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB logo" />
   <img width="12" />
   <!-- Convex -->
-  <img src="https://static.convex.dev/icon-dark.svg" height="30" alt="Convex logo" />
+  <img src="https://drive.google.com/file/d/12xvG64FJRU0c70EozoQfD7QcP4Anq3xk/view?usp=sharing" height="30" alt="Convex logo" />
   <img width="12" />
   <!-- Node.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" />
@@ -63,13 +63,10 @@
   <img src="https://threejs.org/files/favicon.ico" height="30" alt="Three.js logo" />
   <img width="12" />
   <!-- Auth.js -->
-  <img src="https://authjs.dev/img/logo/logo-sm.svg" height="30" alt="Auth.js logo" />
-  <img width="12" />
-  <!-- Multer -->
-  <img src="https://www.svgrepo.com/show/354428/nodejs.svg" height="30" alt="Multer (Node.js) logo" />
+  <img src="https://drive.google.com/file/d/1tLeKsojdwDbwjPkYbshhofGfWeNxFnus/view?usp=sharing" />
   <img width="12" />
   <!-- EmailJS -->
-  <img src="https://www.emailjs.com/images/logo.svg" height="30" alt="EmailJS logo" />
+  <img src="https://drive.google.com/file/d/1R7wra6JnQ4nRAm45rxaC747367IsMkmB/view?usp=sharing" />
   <img width="12" />
   <!-- Flask -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask logo" />
@@ -81,22 +78,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" />
   <img width="12" />
   <!-- GSAP -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/GSAP_Logo.svg" height="30" alt="GSAP logo" />
+  <img src="https://drive.google.com/file/d/1XCpkI_xtU0fb3SvlfR-oLzxy15Uj932s/view?usp=sharing" height="30" alt="GSAP logo" />
   <img width="12" />
   <!-- Swiper.js -->
   <img src="https://swiperjs.com/images/favicon.png" height="30" alt="Swiper.js logo" />
   <img width="12" />
   <!-- PDFKit -->
-  <img src="https://raw.githubusercontent.com/foliojs/pdfkit/gh-pages/img/logo.png" height="30" alt="PDFKit logo" />
+  <img src="https://drive.google.com/file/d/1p7t-rLwRIBVYMinyoWZvfNKjm60xsCfx/view?usp=sharing" height="30" alt="PDFKit logo" />
   <img width="12" />
   <!-- Redux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="Redux logo" />
-  <img width="12" />
-  <!-- PayPal -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg" height="30" alt="PayPal logo" />
-  <img width="12" />
-  <!-- Stripe -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Stripe_Logo%2C_revised_2016.svg/512px-Stripe_Logo%2C_revised_2016.svg.png" height="30" alt="Stripe logo" />
   <img width="12" />
   <!-- Tailwind CSS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS logo" />
@@ -105,10 +96,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="30" alt="Vercel logo" />
   <img width="12" />
   <!-- Render -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Render_logo.svg/512px-Render_logo.svg.png" height="30" alt="Render logo" />
+  <img src="https://drive.google.com/file/d/19N1sJ0LgZcT90F855AR9Tsa_G7wZW5so/view?usp=sharing" height="30" alt="Render logo" />
   <img width="12" />
   <!-- Cloudinary -->
-  <img src="https://res.cloudinary.com/cloudinary/image/upload/v1697032100/logos/cloudinary_blue.png" height="30" alt="Cloudinary logo" />
+  <img src="https://drive.google.com/file/d/185lN8vvG0fJrj0Gy-JXO8K8d3HbgL3HT/view?usp=sharing" height="30" alt="Cloudinary logo" />
 </div>
 
 
