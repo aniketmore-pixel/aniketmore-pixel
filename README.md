@@ -66,7 +66,7 @@
   <img src="https://i.imgur.com/l0q4O03.png" height="30" />
   <img width="12" />
   <!-- EmailJS -->
-  <img src="https://i.imgur.com/Mg72byo.jpeg" />
+  <img src="https://i.imgur.com/Mg72byo.jpeg" height="30" />
   <img width="12" />
   <!-- Flask -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask logo" />
