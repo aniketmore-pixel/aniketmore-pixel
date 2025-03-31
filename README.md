@@ -14,68 +14,100 @@
 ###
 
 <div align="left">
+  <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
   <img width="12" />
+  <!-- Java -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" />
   <img width="12" />
+  <!-- C -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo" />
   <img width="12" />
+  <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo" />
   <img width="12" />
+  <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" />
   <img width="12" />
+  <!-- JSX (React Alternative) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="30" alt="JSX logo (React)" />
+  <img width="12" />
+  <!-- Next.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js logo" />
   <img width="12" />
+  <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
   <img width="12" />
+  <!-- TypeScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript logo" />
   <img width="12" />
+  <!-- HTML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML logo" />
   <img width="12" />
+  <!-- CSS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Jsx_logo.png" height="30" alt="JSX logo" />
-  <img width="12" />
+  <!-- Express.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express.js logo" />
   <img width="12" />
+  <!-- MongoDB -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB logo" />
   <img width="12" />
+  <!-- Convex -->
   <img src="https://static.convex.dev/icon-dark.svg" height="30" alt="Convex logo" />
   <img width="12" />
+  <!-- Node.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Three.js_Icon.svg/512px-Three.js_Icon.svg.png" height="30" alt="Three.js logo" />
+  <!-- Three.js -->
+  <img src="https://threejs.org/files/favicon.ico" height="30" alt="Three.js logo" />
   <img width="12" />
+  <!-- Auth.js -->
   <img src="https://authjs.dev/img/logo/logo-sm.svg" height="30" alt="Auth.js logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Multer-logo.png" height="30" alt="Multer logo" />
+  <!-- Multer -->
+  <img src="https://www.svgrepo.com/show/354428/nodejs.svg" height="30" alt="Multer (Node.js) logo" />
   <img width="12" />
+  <!-- EmailJS -->
   <img src="https://www.emailjs.com/images/logo.svg" height="30" alt="EmailJS logo" />
   <img width="12" />
+  <!-- Flask -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask logo" />
   <img width="12" />
+  <!-- ShadCN/UI -->
   <img src="https://ui.shadcn.com/favicon.ico" height="30" alt="ShadCN/UI logo" />
   <img width="12" />
+  <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" />
   <img width="12" />
+  <!-- GSAP -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/GSAP_Logo.svg" height="30" alt="GSAP logo" />
   <img width="12" />
+  <!-- Swiper.js -->
   <img src="https://swiperjs.com/images/favicon.png" height="30" alt="Swiper.js logo" />
   <img width="12" />
+  <!-- PDFKit -->
   <img src="https://raw.githubusercontent.com/foliojs/pdfkit/gh-pages/img/logo.png" height="30" alt="PDFKit logo" />
   <img width="12" />
+  <!-- Redux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="Redux logo" />
   <img width="12" />
+  <!-- PayPal -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg" height="30" alt="PayPal logo" />
   <img width="12" />
+  <!-- Stripe -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Stripe_Logo%2C_revised_2016.svg/512px-Stripe_Logo%2C_revised_2016.svg.png" height="30" alt="Stripe logo" />
   <img width="12" />
+  <!-- Tailwind CSS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS logo" />
   <img width="12" />
+  <!-- Vercel -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="30" alt="Vercel logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/render/render-original.svg" height="30" alt="Render logo" />
+  <!-- Render -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Render_logo.svg/512px-Render_logo.svg.png" height="30" alt="Render logo" />
   <img width="12" />
+  <!-- Cloudinary -->
   <img src="https://res.cloudinary.com/cloudinary/image/upload/v1697032100/logos/cloudinary_blue.png" height="30" alt="Cloudinary logo" />
 </div>
 
