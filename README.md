@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+![image](https://github.com/user-attachments/assets/58801278-830f-47e3-bf0a-c5028ac3ca99)<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -54,7 +54,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB logo" />
   <img width="12" />
   <!-- Convex -->
-  <img src="https://imgur.com/qkkl20Z" height="30" alt="Convex logo" />
+  <img src="https://i.imgur.com/qkkl20Z.jpeg" height="30" alt="Convex logo" />
   <img width="12" />
   <!-- Node.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" />
@@ -63,10 +63,10 @@
   <img src="https://threejs.org/files/favicon.ico" height="30" alt="Three.js logo" />
   <img width="12" />
   <!-- Auth.js -->
-  <img src="https://imgur.com/l0q4O03" />
+  <img src="https://i.imgur.com/l0q4O03.png" />
   <img width="12" />
   <!-- EmailJS -->
-  <img src="https://imgur.com/Mg72byo" />
+  <img src="https://i.imgur.com/Mg72byo.jpeg" />
   <img width="12" />
   <!-- Flask -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask logo" />
@@ -78,13 +78,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" />
   <img width="12" />
   <!-- GSAP -->
-  <img src="https://imgur.com/DAmMwgw" height="30" alt="GSAP logo" />
+  <img src="https://i.imgur.com/DAmMwgw.png" height="30" alt="GSAP logo" />
   <img width="12" />
   <!-- Swiper.js -->
   <img src="https://swiperjs.com/images/favicon.png" height="30" alt="Swiper.js logo" />
   <img width="12" />
   <!-- PDFKit -->
-  <img src="https://imgur.com/hO195VG" height="30" alt="PDFKit logo" />
+  <img src="https://i.imgur.com/hO195VG.png" height="30" alt="PDFKit logo" />
   <img width="12" />
   <!-- Redux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="Redux logo" />
@@ -96,10 +96,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="30" alt="Vercel logo" />
   <img width="12" />
   <!-- Render -->
-  <img src="https://imgur.com/XCAeMlY" height="30" alt="Render logo" />
+  <img src="https://i.imgur.com/XCAeMlY.jpeg" height="30" alt="Render logo" />
   <img width="12" />
   <!-- Cloudinary -->
-  <img src="https://imgur.com/Gpm5lSq" height="30" alt="Cloudinary logo" />
+  <img src="https://i.imgur.com/Gpm5lSq.png" height="30" alt="Cloudinary logo" />
 </div>
 
 
