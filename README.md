@@ -9,7 +9,7 @@
 - 📊 Scalable Solutions — Deployed apps like Ghar Ka Khana (Java/MySQL) and Tezz Watches (Stripe/Node.js) on Render & Vercel.
   <br>
   <hr>
-  **Code. Build. Impact.**  
+  <i>Code. Build. Impact.</i>
 
 <h3 align="left">📲 Connect with me:</h3>
 <div align="left">
