@@ -81,10 +81,6 @@
   </tr>
 </table>
 
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jigar-sable&theme=dark" alt="jigar-sable" /></p>
-  </div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aniketmore-pixel/aniketmore-pixel/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aniketmore-pixel/aniketmore-pixel/output/github-snake.svg" />
