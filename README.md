@@ -1,7 +1,7 @@
 <h1 align="left">👋 Hi, I'm Aniket More </a></h1>
 <!-- <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3> -->
 
-- 💻 Full-Stack Developer & Blockchain Enthusiast | Mumbai, IN
+- 💻 IT'26 @TSEC | Mumbai, IN
 - 📫 Reach out: [aniketmore.personal@gmail.com](aniketmore.personal@gmail.com)
 - 🚀 Built CustomTees — A 3D e-commerce platform with React, Three.js, and Node.js, loved for real-time customization and PayPal/Stripe integrations.
 - 🌟 Crafted Dopelist (AI-powered task manager) at Convex Hackathon, deployed on Vercel with Auth.js & OpenAI API.
