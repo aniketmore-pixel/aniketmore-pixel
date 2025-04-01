@@ -37,6 +37,8 @@
 <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img alt="Flask" src="https://img.shields.io/badge/Flask-%23000D23.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+
 
 
 </div>
