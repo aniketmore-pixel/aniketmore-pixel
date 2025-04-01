@@ -38,6 +38,18 @@
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img alt="Flask" src="https://img.shields.io/badge/Flask-%23000D23.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<br>
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="AWS" src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+<img alt="Heroku" src="https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
+<img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white"/>
+<br>
+<img alt="Angular" src="https://img.shields.io/badge/Angular-%23000C0F.svg?style=for-the-badge&logo=angular&logoColor=white"/>
+<img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img alt="Nginx" src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img alt="Terraform" src="https://img.shields.io/badge/Terraform-%23623B30.svg?style=for-the-badge&logo=terraform&logoColor=white"/>
 
 
 
