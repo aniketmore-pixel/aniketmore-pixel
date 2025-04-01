@@ -2,7 +2,7 @@
 <!-- <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3> -->
 
 - 💻 IT'26 @TSEC | Mumbai, IN
-- 📫 Reach out: [aniketmore.personal@gmail.com](aniketmore.personal@gmail.com)
+- 📫 Reach out: <a href="mailto:aniketmore.personal@gmail.com">aniketmore.personal@gmail.com</a>
 - 🚀 Built CustomTees — A 3D e-commerce platform with React, Three.js, and Node.js, loved for real-time customization and PayPal/Stripe integrations.
 - 🌟 Crafted Dopelist (AI-powered task manager) at Convex Hackathon, deployed on Vercel with Auth.js & OpenAI API.
 - 💡 Engineered Blockscope, a tamper-proof blockchain visualizer with Flask and SHA-256 hashing.
