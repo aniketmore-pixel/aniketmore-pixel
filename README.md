@@ -8,6 +8,7 @@
 - 💡 Engineered Blockscope, a tamper-proof blockchain visualizer with Flask and SHA-256 hashing.
 - 📊 Scalable Solutions — Deployed apps like Ghar Ka Khana (Java/MySQL) and Tezz Watches (Stripe/Node.js) on Render & Vercel.
   <br>
+  <hr>
   **Code. Build. Impact.**  
 
 <h3 align="left">📲 Connect with me:</h3>
