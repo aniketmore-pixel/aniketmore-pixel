@@ -4,5 +4,5 @@ My name is Aniket More, an IT Engineering student passionate about building scal
 
 - 🛒 I recently built **[CustomTees](https://github.com/aniketmore-pixel/CustomTees)** – an end-to-end e-commerce platform where artists can sell custom T-shirts with real-time 3D customization.
 - 🌱 I’m exploring full-stack development, cloud computing (AWS), and making ML projects.
-- 🤝 I’m always looking to collaborate. 
+- 🤝 I’m always looking to collaborate, so feel free to reach out to me here...[aniketmore.personal@gmail.com](mailto:aniketmore.personal@gmail.com)
 
